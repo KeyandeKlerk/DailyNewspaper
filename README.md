@@ -1,0 +1,1 @@
+Python script to automate going to websites and scraping Tech related articles before delivering them in a singular pdf for consumption
