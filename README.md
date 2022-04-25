@@ -7,6 +7,11 @@ A python program designed to scrape websites using selenium and generate a pdf t
 - learnt how to use selenium
 - learnt how to use matplotlib to generate pdf 
 
+## How to Install
+Install the requirements.txt file by running
+        pip install -r requirements.txt
+
+Run main.py or use Task Scheduler to automate the script
 ## Features
 
 ### Main.py
