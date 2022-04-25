@@ -9,7 +9,8 @@ A python program designed to scrape websites using selenium and generate a pdf t
 
 ## How to Install
 Install the requirements.txt file by running
-        pip install -r requirements.txt
+
+> pip install -r requirements.txt
 
 Run main.py or use Task Scheduler to automate the script
 ## Features
