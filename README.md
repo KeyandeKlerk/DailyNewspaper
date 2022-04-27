@@ -28,7 +28,6 @@ Run main.py or use Task Scheduler to automate the script
 - Scrape Tech Crunch
 - Scrape The Next Web
 - Scrape Wired
-- Scrape the Verge
 - Scrape Tech Radar
 - Automate the script running when pc switches on
 - Send PDF via email to email address

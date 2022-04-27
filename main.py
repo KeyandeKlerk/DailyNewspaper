@@ -27,10 +27,9 @@ def scrape_business_tech():
     search_button.click()
 
     search = driver.find_element(by=By.ID, value="s")
-    search.send_keys("Crypto")
+    search.send_keys("IT")
     search.send_keys(Keys.RETURN)
 
-    counter = 0
     try:
         heading = []
         links = []
